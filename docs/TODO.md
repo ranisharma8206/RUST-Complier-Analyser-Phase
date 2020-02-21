@@ -1,6 +1,9 @@
 # TODO 
-## Things to implement in before
-
+## Things to implement:
+* Printing without formating
+* variables
+* for loop
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1MTA4NjYwXX0=
+eyJoaXN0b3J5IjpbODI1NjEwNjA4XX0=
 -->
