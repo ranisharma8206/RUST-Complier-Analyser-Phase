@@ -1,13 +1,13 @@
 # TODO 
 ## Things to implement:
 * Printing without formating
-* variables
-* for loop
-* while
-* arrays
-* printing with formating
-* functions
-* 
+* Variables
+* For loop
+* While loop
+* Printing with formating
+* Functions
+* Dynamic memory allocation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkzMDI2NzgsODI1NjEwNjA4XX0=
+eyJoaXN0b3J5IjpbLTY0NDQ5MzE1MiwtMTIzOTMwMjY3OCw4Mj
+U2MTA2MDhdfQ==
 -->
